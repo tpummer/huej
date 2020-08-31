@@ -7,3 +7,17 @@ to test: ip/debug/clip.html
 message body: {"bri":254}
 
 Anleitung token https://www.tutonaut.de/anleitung-hue-api-ansprechen-aka-nutzer-anlegen/
+
+other examples: https://github.com/tigoe/hue-control
+
+https://github.com/tigoe/hue-control referenz
+
+
+into:
+https://developers.meethue.com/develop/get-started-2/
+
+developer info
+https://developers.meethue.com/
+
+detect bridge
+https://github.com/sqmk/Phue/wiki/Finding-Philips-Hue-bridge-on-network
